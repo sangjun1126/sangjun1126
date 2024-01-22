@@ -28,14 +28,8 @@ Hello! I'm a passionate frontend developer, Sangjun. I love learning and never l
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="jeongsangjun1234@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
     <a href="https://open.kakao.com/o/sp2Cen5f">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="jeongsangjun@naver.com">
-        <img src="https://img.shields.io/badge/Naver-%2303C75A?style=for-the-badge&logoColor=white&logo=Naver">
     </a>
 </div><br>
     
