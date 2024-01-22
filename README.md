@@ -13,7 +13,8 @@ Hello! I'm a passionate frontend developer, Sangjun. I love learning and never l
 
 
 
-[![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/sangjun1126/github-readme-stats)
+![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&show_icons=true&theme=transparent)
+
  
 <br>
 
