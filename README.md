@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangjun</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
-- 🔭 I’m currently working on [React_Jsx](https://github.com/sangjun1126/React_Jsx)
-
 - 🌱 I’m currently learning **React, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/07cdce2883834041adaac678960feeb7](https://www.notion.so/07cdce2883834041adaac678960feeb7)
