@@ -8,7 +8,7 @@
 <br>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun1126&layout=compact&theme=white)
 ![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&show_icons=true&theme=transparent)
 
  
