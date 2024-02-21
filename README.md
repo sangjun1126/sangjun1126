@@ -8,8 +8,9 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun1126&layout=compact&theme=white)
-![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun1126&layout=compact&theme=tokyonight)
+![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&show_icons=true&theme=tokyonight)
+<a href="https://opgc.me/#/users/sangjun1126" target="_blank"><img src="https://api.opgc.me/githubs/users/sangjun1126/tag/?theme=basic" /></a>    
 
  
 <br>
@@ -39,8 +40,6 @@
 
 ### 📙 Backend
 <div style="display:flex; flex-direction:row; align-items:flex-start;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-yellow?style=for-the-badge&logo=express&logoColor=white" />
