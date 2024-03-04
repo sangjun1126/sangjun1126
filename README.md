@@ -9,8 +9,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun1126&layout=compact&theme=tokyonight)
-![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&show_icons=true&theme=tokyonight)
-<a href="https://opgc.me/#/users/sangjun1126" target="_blank"><img src="https://api.opgc.me/githubs/users/sangjun1126/tag/?theme=basic" /></a>   
+![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&show_icons=true&theme=tokyonight) 
  
 
  
