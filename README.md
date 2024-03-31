@@ -1,17 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sangjun's+GitHub!👋)](https://git.io/typing-svg)
- 
+
 <div align="left">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+
+<h3>안녕하세요 프론트엔드 개발자 정상준입니다 :)</h3>
 
 -------
 
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangjun1126&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun1126&layout=compact&theme=tokyonight)
-![sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun1126&show_icons=true&theme=tokyonight) 
- 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun1126&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangjun1126&theme=tokyonight&show_icons=true" width="39%" />
+</a>
 
+<a href="https://github.com/sangjun1126/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangjun1126&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangjun1126&theme=tokyonight)
+
+<a href="https://opgc.me/#/users/sangjun1126" target="_blank"><img src="https://api.opgc.me/githubs/users/sangjun1126/tag/?theme=basic" /></a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sangjun1126&theme=flat&column=7)](https://github.com/sangjun1126/)
+
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
  
 <br>
 
@@ -22,6 +41,9 @@
     </a>
   
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsj54629)](https://github.com/sangjun1126/velog-readme-stats)
+
+
+
 </div><br>
     
 ## 🔨 Stacks 🔨
