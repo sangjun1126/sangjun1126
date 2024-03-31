@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun1126&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangjun1126&theme=tokyonight&show_icons=true" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sangjun1126&theme=tokyonight&show_icons=true" />
 </a>
 
 <a href="https://github.com/sangjun1126/github-readme-activity-graph">
