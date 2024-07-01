@@ -44,10 +44,9 @@
 
 ### 📙 Backend
 <div style="display:flex; flex-direction:row; align-items:flex-start;">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-yellow?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    
 </div>
 
 ### 📗 ETC
